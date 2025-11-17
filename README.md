@@ -2,7 +2,8 @@
 ## Date: 
 
 ## AIM
-To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
+To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
+
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
@@ -32,4 +33,4 @@ Include the screenshot of your admin page.
 
 
 ## RESULT
-Thus the program for creating movies database using ORM hass been executed successfully
+Thus the program for creating E-commerce website database using ORM hass been executed successfully
